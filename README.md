@@ -171,6 +171,14 @@ Open an issue with the log (**Copy log** in the window), the map, the quality an
 
 ---
 
+## AI use
+
+H3LM was made with the help of AI (Anthropic's Claude), used as a coding assistant. A human reviewed every change, and everything was tested by a human before release.
+
+If you would rather not use a tool made with AI, that is your choice, and it is a fair one.
+
+---
+
 ## Support
 
 H3LM is free. If it helps you: [ko-fi.com/zoephloaf](https://ko-fi.com/zoephloaf)
